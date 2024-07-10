@@ -1,4 +1,20 @@
 # Awesome-Android-Open-Source-Projects-Publ
+Here's a list of open-source contributors who have compiled the resources:
+
+- [binaryShrey](https://github.com/binaryshrey)
+- [LautaroLobo12](https://github.com/lautarolobo12)
+- [VirejDasani](https://github.com/virejdasani)
+- [Mehranalam](https://github.com/Mehranalam)
+- [Varsha-Kulkarni](https://github.com/Varsha-Kulkarni)
+- [Dilmohit](https://github.com/Dilmohit)
+- [ardiansyahp8](https://github.com/ardiansyahp8)
+- [asentris](https://github.com/asentris)
+- [MayorJay](https://github.com/mayorJAY)
+- [LeoColman](https://github.com/LeoColman)
+- [JacobKerames](https://github.com/JacobKerames)
+- [swapnil-musale](https://github.com/swapnil-musale)
+- [Tunde-Sanusi](https://github.com/tuhamworld)
+- [sharshv2012](https://github.com/sharshv2012)
 Awesome-Android-Open-Source-Projects Publ
 Awesome Android Open-Source Projects
 Awesome Android Open-Source Projects
